@@ -1,4 +1,4 @@
-source,target
+from,to
 HSC,CLAT-UG
 HSC,BA
 CLAT-UG,BA-LLB
